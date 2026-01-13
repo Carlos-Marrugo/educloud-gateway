@@ -1,3 +1,12 @@
+
+## Key Responsibilities:
+
+➜ Routing to microservices
+➜ JWT Validation (Keycloak)
+➜ Tenant resolution (X-Tenant-ID)
+➜ Perimeter security
+➜ Observability (logs, metrics)
+
 ## Review de Arquitectura
 <img width="855" height="429" alt="image" src="https://github.com/user-attachments/assets/83d6dfd2-b26a-4c79-9bfa-7fd747138f38" />
 
