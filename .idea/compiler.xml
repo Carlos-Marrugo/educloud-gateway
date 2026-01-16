@@ -39,7 +39,7 @@
       <module name="common.main" options="-parameters" />
       <module name="common.test" options="-parameters" />
       <module name="config-server" options="" />
-      <module name="service-registry" options="-parameters" />
+      <module name="service-registry" options="" />
     </option>
   </component>
 </project>
