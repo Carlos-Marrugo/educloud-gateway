@@ -9,6 +9,9 @@
     <artifactId>platform-backend</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
+    <modules>
+        <module>auth-service</module>
+    </modules>
 
     <name>EduCloud Platform Backend</name>
     <description>Monorepo backend for EduCloud University Platform (multi-module Spring Boot)</description>
