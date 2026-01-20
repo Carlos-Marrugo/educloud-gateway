@@ -14,7 +14,7 @@
     <module>config-server</module>
     <module>service-registry</module>
     <module>api-gateway</module>
-    <module>auth-service</module> <!-- Agregar esta línea -->
+    <module>auth-service</module> 
 </modules>
 
     <name>EduCloud Platform Backend</name>
