@@ -1,4 +1,4 @@
-package com.educloud.commom;
+package com.educloud.common;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
