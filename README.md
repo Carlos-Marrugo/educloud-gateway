@@ -23,6 +23,6 @@ Stack base utilizado para el desarrollo y despliegue de los microservicios (Java
 
 Equipo de Colaboradores Backends de educloud backend microservice!
 
-[![Contribuidores](https://contrib.rocks/image?repo=Carlos-Marrugo/educloud-backend&max=100&columns=10)](https://github.com/Carlos-Marrugo/educloud-backend/graphs/contributors)
+[![Contribuidores](https://contrib.rocks/image?repo=Carlos-Marrugo/educloud-gateway&max=100&columns=10)](https://github.com/Carlos-Marrugo/educloud-gateway/graphs/contributors)
 
 </div>
